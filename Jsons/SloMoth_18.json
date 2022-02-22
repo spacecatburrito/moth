@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/18",
+  "image": "ipfs://bafybeib6f7mzszjinutbructpy5iquqi4kpnb62nci34lkhzevw2dkwsna",
+  "name": "Slo Moth 18",
+  "attributes": [
+    { "trait_type": "Background", "value": "Club" },
+    { "trait_type": "Table", "value": "Sweet tooth" },
+    { "trait_type": "Body", "value": "Fluffy" },
+    { "trait_type": "Head", "value": "Duck lips" },
+    { "trait_type": "Legs", "value": "Zen" },
+    { "trait_type": "Wings", "value": "Officer" },
+    { "trait_type": "Horns", "value": "Zippy" },
+    { "trait_type": "Effect", "value": "Cinematograph" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/43",
+  "image": "ipfs://bafybeiew66dl6je2aqpnnixksi4et5xxvucnb2l2sowfsdnnujgey77ka4",
+  "name": "Slo Moth 43",
+  "attributes": [
+    { "trait_type": "Background", "value": "Rustic" },
+    { "trait_type": "Table", "value": "DJ" },
+    { "trait_type": "Body", "value": "Fur coat" },
+    { "trait_type": "Head", "value": "Hypno" },
+    { "trait_type": "Legs", "value": "Paws" },
+    { "trait_type": "Wings", "value": "Lord gray" },
+    { "trait_type": "Horns", "value": "Fluffy" },
+    { "trait_type": "Effect", "value": "Bleed" }
+  ]
+}

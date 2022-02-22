@@ -1,0 +1,18 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/56",
+  "image": "ipfs://bafybeigyawz7rvutkzf2gnd2uz3dnsxludwuvc3gwqsz3o2x5sf5n363qe",
+  "name": "Slo Moth 56",
+  "attributes": [
+    { "trait_type": "Background", "value": "Rustic" },
+    { "trait_type": "Table", "value": "DJ" },
+    { "trait_type": "Body", "value": "Fur coat" },
+    { "trait_type": "Head", "value": "Hypno" },
+    { "trait_type": "Legs", "value": "Hoffed" },
+    { "trait_type": "Wings", "value": "Plaids lover" },
+    { "trait_type": "Horns", "value": "Fluffy" },
+    { "trait_type": "Effect", "value": "Bleed" },
+    { "trait_type": "Effect", "value": "Cinematograph" },
+    { "trait_type": "Hue", "value": "-131" }
+  ]
+}

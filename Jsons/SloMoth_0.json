@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/0",
+  "image": "ipfs://bafybeiggcwbadconhj5x3ek2axwfhgfgjyodj6xcdjdz7iy5hxaynwla5y",
+  "name": "Slo Moth 0",
+  "attributes": [
+    { "trait_type": "Background", "value": "Rustic" },
+    { "trait_type": "Table", "value": "Smooth" },
+    { "trait_type": "Body", "value": "Patchy coat" },
+    { "trait_type": "Head", "value": "Duck lips" },
+    { "trait_type": "Legs", "value": "Hoffed" },
+    { "trait_type": "Wings", "value": "Infection" },
+    { "trait_type": "Horns", "value": "Fluffy" },
+    { "trait_type": "Effect", "value": "Scan" }
+  ]
+}

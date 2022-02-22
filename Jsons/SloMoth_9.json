@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/9",
+  "image": "ipfs://bafybeifrqyw563y36xkkn5jyojf3jbrkfdykiwbmfpm5tij67uckazawxi",
+  "name": "Slo Moth 9",
+  "attributes": [
+    { "trait_type": "Background", "value": "Milky way" },
+    { "trait_type": "Table", "value": "Divination" },
+    { "trait_type": "Body", "value": "Shaggy" },
+    { "trait_type": "Head", "value": "Whiskered" },
+    { "trait_type": "Legs", "value": "Paws" },
+    { "trait_type": "Wings", "value": "Lord gray" },
+    { "trait_type": "Horns", "value": "Feather" },
+    { "trait_type": "Effect", "value": "Scan" }
+  ]
+}

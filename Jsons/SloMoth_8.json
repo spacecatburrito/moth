@@ -1,0 +1,17 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/8",
+  "image": "ipfs://bafybeicdymdyucswj3ya7ur4ver6xmcc3gnp5f6hgiuo3msmvp6fy347ti",
+  "name": "Slo Moth 8",
+  "attributes": [
+    { "trait_type": "Background", "value": "Milky way" },
+    { "trait_type": "Table", "value": "Wooden" },
+    { "trait_type": "Body", "value": "Fur coat" },
+    { "trait_type": "Head", "value": "Insect" },
+    { "trait_type": "Legs", "value": "Paws" },
+    { "trait_type": "Wings", "value": "Infection" },
+    { "trait_type": "Horns", "value": "Feather" },
+    { "trait_type": "Effect", "value": "Cinematograph" },
+    { "trait_type": "Hue", "value": "-58" }
+  ]
+}

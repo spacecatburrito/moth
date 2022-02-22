@@ -1,0 +1,17 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/22",
+  "image": "ipfs://bafybeiboaotuokcqcqjvfql255jjb3nq4cbhoqeula2kliegve37xhamna",
+  "name": "Slo Moth 22",
+  "attributes": [
+    { "trait_type": "Background", "value": "Milky way" },
+    { "trait_type": "Table", "value": "Wooden" },
+    { "trait_type": "Body", "value": "Patchy coat" },
+    { "trait_type": "Head", "value": "Duck lips" },
+    { "trait_type": "Legs", "value": "Zen" },
+    { "trait_type": "Wings", "value": "Officer" },
+    { "trait_type": "Horns", "value": "Feather" },
+    { "trait_type": "Effect", "value": "Negative" },
+    { "trait_type": "Effect", "value": "Stretch noize" }
+  ]
+}

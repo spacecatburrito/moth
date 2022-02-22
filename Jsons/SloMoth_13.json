@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/13",
+  "image": "ipfs://bafybeif3wt5duekfbfa6kfdkmfejqn5bssb5vcidrb6kla7cwi5uh4rxhu",
+  "name": "Slo Moth 13",
+  "attributes": [
+    { "trait_type": "Background", "value": "Club" },
+    { "trait_type": "Table", "value": "Sweet tooth" },
+    { "trait_type": "Body", "value": "Fluffy" },
+    { "trait_type": "Head", "value": "Insect" },
+    { "trait_type": "Legs", "value": "Paws" },
+    { "trait_type": "Wings", "value": "Lord gray" },
+    { "trait_type": "Horns", "value": "Acacia" },
+    { "trait_type": "Effect", "value": "Tape noize" }
+  ]
+}

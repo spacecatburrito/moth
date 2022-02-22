@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/11",
+  "image": "ipfs://bafybeid6jhhcgcblz6a5i34ndutkoyorsyhcso6y44t3g4kou7m6xapugu",
+  "name": "Slo Moth 11",
+  "attributes": [
+    { "trait_type": "Background", "value": "Milky way" },
+    { "trait_type": "Table", "value": "Divination" },
+    { "trait_type": "Body", "value": "Patchy coat" },
+    { "trait_type": "Head", "value": "Hypno" },
+    { "trait_type": "Legs", "value": "Zen" },
+    { "trait_type": "Wings", "value": "Infection" },
+    { "trait_type": "Horns", "value": "Fluffy" },
+    { "trait_type": "Effect", "value": "Low res" }
+  ]
+}

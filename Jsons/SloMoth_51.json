@@ -1,0 +1,19 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/51",
+  "image": "ipfs://bafkreig7rnl3aysjacszopn5aerookwepatjup34l44kj3nlnch3p7b62m",
+  "name": "Slo Moth 51",
+  "attributes": [
+    { "trait_type": "Background", "value": "Club" },
+    { "trait_type": "Table", "value": "Sweet tooth" },
+    { "trait_type": "Body", "value": "Fur coat" },
+    { "trait_type": "Head", "value": "Hypno" },
+    { "trait_type": "Legs", "value": "Hoffed" },
+    { "trait_type": "Wings", "value": "Infection" },
+    { "trait_type": "Horns", "value": "Acacia" },
+    { "trait_type": "Effect", "value": "Negative" },
+    { "trait_type": "Effect", "value": "Low res" },
+    { "trait_type": "Effect", "value": "Bloom" },
+    { "trait_type": "Effect", "value": "Shake" }
+  ]
+}

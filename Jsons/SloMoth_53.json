@@ -1,0 +1,17 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/53",
+  "image": "ipfs://bafkreiepwvsawmgkqq76bjbx7l7ta5fvuc7o4oycwowuueeuvjfs73lt54",
+  "name": "Slo Moth 53",
+  "attributes": [
+    { "trait_type": "Background", "value": "Manor" },
+    { "trait_type": "Table", "value": "Sweet tooth" },
+    { "trait_type": "Body", "value": "Patchy coat" },
+    { "trait_type": "Head", "value": "Duck lips" },
+    { "trait_type": "Legs", "value": "Paws" },
+    { "trait_type": "Wings", "value": "Infection" },
+    { "trait_type": "Horns", "value": "Zippy" },
+    { "trait_type": "Effect", "value": "Negative" },
+    { "trait_type": "Effect", "value": "Vingete" }
+  ]
+}

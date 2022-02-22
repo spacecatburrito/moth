@@ -1,0 +1,18 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/30",
+  "image": "ipfs://bafybeigb3nhiapxoj4z62irlvux34hbgad24yx6drpuhq53o3wtdptbgse",
+  "name": "Slo Moth 30",
+  "attributes": [
+    { "trait_type": "Background", "value": "Granny carpet" },
+    { "trait_type": "Table", "value": "Wooden" },
+    { "trait_type": "Body", "value": "Shaggy" },
+    { "trait_type": "Head", "value": "Insect" },
+    { "trait_type": "Legs", "value": "Paws" },
+    { "trait_type": "Wings", "value": "Lord gray" },
+    { "trait_type": "Horns", "value": "Fluffy" },
+    { "trait_type": "Effect", "value": "Cinematograph" },
+    { "trait_type": "Effect", "value": "Signal noize" },
+    { "trait_type": "Hue", "value": "-18" }
+  ]
+}

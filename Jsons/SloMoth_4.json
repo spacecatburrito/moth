@@ -1,0 +1,17 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/4",
+  "image": "ipfs://bafybeidy5c67nvigg4mqvyj26jczgz4474von2xz7hfibtuklv4zkutvma",
+  "name": "Slo Moth 4",
+  "attributes": [
+    { "trait_type": "Background", "value": "Club" },
+    { "trait_type": "Table", "value": "Divination" },
+    { "trait_type": "Body", "value": "Fluffy" },
+    { "trait_type": "Head", "value": "Insect" },
+    { "trait_type": "Legs", "value": "Zen" },
+    { "trait_type": "Wings", "value": "Plaids lover" },
+    { "trait_type": "Horns", "value": "Fluffy" },
+    { "trait_type": "Effect", "value": "Bloom" },
+    { "trait_type": "Hue", "value": "30" }
+  ]
+}

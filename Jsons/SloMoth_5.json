@@ -1,0 +1,18 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/5",
+  "image": "ipfs://bafybeibj33fsm55baxrs7h5fsicbzqk4yvqaaujvtuu4puxfnjt54eznoe",
+  "name": "Slo Moth 5",
+  "attributes": [
+    { "trait_type": "Background", "value": "Milky way" },
+    { "trait_type": "Table", "value": "Smooth" },
+    { "trait_type": "Body", "value": "Shaggy" },
+    { "trait_type": "Head", "value": "Insect" },
+    { "trait_type": "Legs", "value": "Infestor" },
+    { "trait_type": "Wings", "value": "Infection" },
+    { "trait_type": "Horns", "value": "Acacia" },
+    { "trait_type": "Effect", "value": "Tape noize" },
+    { "trait_type": "Effect", "value": "Shake" },
+    { "trait_type": "Hue", "value": "124" }
+  ]
+}
