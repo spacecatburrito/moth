@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/2",
+  "image": "ipfs://bafybeigivriurtsdxm34h2m3y62qer4ad4ihac6pwxizynnobeg67ee42u",
+  "name": "Slo Moth 2",
+  "attributes": [
+    { "trait_type": "Background", "value": "Granny carpet" },
+    { "trait_type": "Table", "value": "Sweet tooth" },
+    { "trait_type": "Body", "value": "Fur coat" },
+    { "trait_type": "Head", "value": "Hypno" },
+    { "trait_type": "Legs", "value": "Infestor" },
+    { "trait_type": "Wings", "value": "Infection" },
+    { "trait_type": "Horns", "value": "Fluffy" },
+    { "trait_type": "Effect", "value": "Chromatic aberation" }
+  ]
+}

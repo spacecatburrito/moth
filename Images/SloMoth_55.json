@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/55",
+  "image": "ipfs://bafybeicrgenowksj2naxgfedmxsyfjzpbezee45b6tqqsecgjpivlxflya",
+  "name": "Slo Moth 55",
+  "attributes": [
+    { "trait_type": "Background", "value": "Granny carpet" },
+    { "trait_type": "Table", "value": "Wooden" },
+    { "trait_type": "Body", "value": "Shaggy" },
+    { "trait_type": "Head", "value": "Insect" },
+    { "trait_type": "Legs", "value": "Zen" },
+    { "trait_type": "Wings", "value": "Officer" },
+    { "trait_type": "Horns", "value": "Feather" },
+    { "trait_type": "Effect", "value": "Bleed" }
+  ]
+}

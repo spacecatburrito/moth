@@ -1,0 +1,19 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/34",
+  "image": "ipfs://bafybeihwusddmirkwcc5zxt5oc2b5xp2tmspylif3kgytn77vfuolns2au",
+  "name": "Slo Moth 34",
+  "attributes": [
+    { "trait_type": "Background", "value": "Manor" },
+    { "trait_type": "Table", "value": "Smooth" },
+    { "trait_type": "Body", "value": "Shaggy" },
+    { "trait_type": "Head", "value": "Insect" },
+    { "trait_type": "Legs", "value": "Hoffed" },
+    { "trait_type": "Wings", "value": "Lord gray" },
+    { "trait_type": "Horns", "value": "Zippy" },
+    { "trait_type": "Effect", "value": "Signal loss" },
+    { "trait_type": "Effect", "value": "Interlancing shake" },
+    { "trait_type": "Effect", "value": "Tape noize" },
+    { "trait_type": "Hue", "value": "177" }
+  ]
+}

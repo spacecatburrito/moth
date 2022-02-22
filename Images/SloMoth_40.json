@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/40",
+  "image": "ipfs://bafybeiaikuxydpmc5mx7ka4bg4gk7p6v6q4bm2a43gdzctiykmejzoo7k4",
+  "name": "Slo Moth 40",
+  "attributes": [
+    { "trait_type": "Background", "value": "Club" },
+    { "trait_type": "Table", "value": "Divination" },
+    { "trait_type": "Body", "value": "Fur coat" },
+    { "trait_type": "Head", "value": "Whiskered" },
+    { "trait_type": "Legs", "value": "Infestor" },
+    { "trait_type": "Wings", "value": "Plaids lover" },
+    { "trait_type": "Horns", "value": "Fluffy" },
+    { "trait_type": "Effect", "value": "Stretch noize" }
+  ]
+}

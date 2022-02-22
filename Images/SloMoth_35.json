@@ -1,0 +1,18 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/35",
+  "image": "ipfs://bafybeigdxb3ihjxnbo4ud3ar5pqprqujzdgc5jk6q4kwju6khqaofze7j4",
+  "name": "Slo Moth 35",
+  "attributes": [
+    { "trait_type": "Background", "value": "Rustic" },
+    { "trait_type": "Table", "value": "Sweet tooth" },
+    { "trait_type": "Body", "value": "Fur coat" },
+    { "trait_type": "Head", "value": "Duck lips" },
+    { "trait_type": "Legs", "value": "Zen" },
+    { "trait_type": "Wings", "value": "Infection" },
+    { "trait_type": "Horns", "value": "Feather" },
+    { "trait_type": "Effect", "value": "Scan" },
+    { "trait_type": "Effect", "value": "Signal noize" },
+    { "trait_type": "Hue", "value": "-122" }
+  ]
+}

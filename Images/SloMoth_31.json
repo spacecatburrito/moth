@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/31",
+  "image": "ipfs://bafybeibmqubplmv3c4zfh4rlqltsjikps7ri75z5esoyk4i3kwxt6gbnry",
+  "name": "Slo Moth 31",
+  "attributes": [
+    { "trait_type": "Background", "value": "Manor" },
+    { "trait_type": "Table", "value": "DJ" },
+    { "trait_type": "Body", "value": "Patchy coat" },
+    { "trait_type": "Head", "value": "Hypno" },
+    { "trait_type": "Legs", "value": "Paws" },
+    { "trait_type": "Wings", "value": "Plaids lover" },
+    { "trait_type": "Horns", "value": "Feather" },
+    { "trait_type": "Effect", "value": "Signal noize" }
+  ]
+}

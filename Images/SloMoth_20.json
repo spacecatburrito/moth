@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/20",
+  "image": "ipfs://bafybeibyvda5omxs63qyzlefrucj5hlma4yq5fjyr7b4ds7i6jvd6ozxy4",
+  "name": "Slo Moth 20",
+  "attributes": [
+    { "trait_type": "Background", "value": "Manor" },
+    { "trait_type": "Table", "value": "DJ" },
+    { "trait_type": "Body", "value": "Shaggy" },
+    { "trait_type": "Head", "value": "Duck lips" },
+    { "trait_type": "Legs", "value": "Infestor" },
+    { "trait_type": "Wings", "value": "Lord gray" },
+    { "trait_type": "Horns", "value": "Fluffy" },
+    { "trait_type": "Effect", "value": "Tape noize" }
+  ]
+}

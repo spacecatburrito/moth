@@ -1,0 +1,17 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/45",
+  "image": "ipfs://bafybeidsydpll7s3qyffoazzhdhqm47mmhfqgl4iqrwkfito3iwb2j2eoq",
+  "name": "Slo Moth 45",
+  "attributes": [
+    { "trait_type": "Background", "value": "Granny carpet" },
+    { "trait_type": "Table", "value": "Smooth" },
+    { "trait_type": "Body", "value": "Patchy coat" },
+    { "trait_type": "Head", "value": "Insect" },
+    { "trait_type": "Legs", "value": "Paws" },
+    { "trait_type": "Wings", "value": "Infection" },
+    { "trait_type": "Horns", "value": "Acacia" },
+    { "trait_type": "Effect", "value": "Low res" },
+    { "trait_type": "Hue", "value": "-72" }
+  ]
+}

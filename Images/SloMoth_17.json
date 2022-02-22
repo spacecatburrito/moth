@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/17",
+  "image": "ipfs://bafybeidgwvzn5ngg2hxxf5w5lkts2zfvtgt5hnlwgq4ba6egh7wgq6akxa",
+  "name": "Slo Moth 17",
+  "attributes": [
+    { "trait_type": "Background", "value": "Granny carpet" },
+    { "trait_type": "Table", "value": "Divination" },
+    { "trait_type": "Body", "value": "Patchy coat" },
+    { "trait_type": "Head", "value": "Duck lips" },
+    { "trait_type": "Legs", "value": "Hoffed" },
+    { "trait_type": "Wings", "value": "Lord gray" },
+    { "trait_type": "Horns", "value": "Zippy" },
+    { "trait_type": "Effect", "value": "Scan" }
+  ]
+}

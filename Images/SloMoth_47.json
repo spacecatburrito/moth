@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/47",
+  "image": "ipfs://bafkreihaw5du7o7dcvmyz7fajq36t47splicmj5lxwaovzrawo4yuog5j4",
+  "name": "Slo Moth 47",
+  "attributes": [
+    { "trait_type": "Background", "value": "Granny carpet" },
+    { "trait_type": "Table", "value": "Sweet tooth" },
+    { "trait_type": "Body", "value": "Fur coat" },
+    { "trait_type": "Head", "value": "Duck lips" },
+    { "trait_type": "Legs", "value": "Zen" },
+    { "trait_type": "Wings", "value": "Lord gray" },
+    { "trait_type": "Horns", "value": "Acacia" },
+    { "trait_type": "Effect", "value": "Negative" }
+  ]
+}

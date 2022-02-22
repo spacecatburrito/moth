@@ -1,0 +1,17 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/36",
+  "image": "ipfs://bafkreihu2ut7dqit6ecnuslowv7zvb24yijja5txecnbekkozskt6cswau",
+  "name": "Slo Moth 36",
+  "attributes": [
+    { "trait_type": "Background", "value": "Manor" },
+    { "trait_type": "Table", "value": "Smooth" },
+    { "trait_type": "Body", "value": "Shaggy" },
+    { "trait_type": "Head", "value": "Duck lips" },
+    { "trait_type": "Legs", "value": "Zen" },
+    { "trait_type": "Wings", "value": "Officer" },
+    { "trait_type": "Horns", "value": "Acacia" },
+    { "trait_type": "Effect", "value": "Dithering" },
+    { "trait_type": "Effect", "value": "Low res" }
+  ]
+}

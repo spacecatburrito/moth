@@ -1,0 +1,17 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/52",
+  "image": "ipfs://bafkreieolcq3w4ios37rq3asq2s4ptursdc24ohmzwwaf4fd42eku2etbi",
+  "name": "Slo Moth 52",
+  "attributes": [
+    { "trait_type": "Background", "value": "Granny carpet" },
+    { "trait_type": "Table", "value": "Wooden" },
+    { "trait_type": "Body", "value": "Patchy coat" },
+    { "trait_type": "Head", "value": "Whiskered" },
+    { "trait_type": "Legs", "value": "Zen" },
+    { "trait_type": "Wings", "value": "Infection" },
+    { "trait_type": "Horns", "value": "Zippy" },
+    { "trait_type": "Effect", "value": "Negative" },
+    { "trait_type": "Effect", "value": "Interlancing shake" }
+  ]
+}

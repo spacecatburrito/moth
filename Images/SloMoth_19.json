@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/19",
+  "image": "ipfs://bafybeihkrundmniogtcrtxhvd2do2setyvzgit66uixfjsq3pitus7bgie",
+  "name": "Slo Moth 19",
+  "attributes": [
+    { "trait_type": "Background", "value": "Manor" },
+    { "trait_type": "Table", "value": "Sweet tooth" },
+    { "trait_type": "Body", "value": "Fluffy" },
+    { "trait_type": "Head", "value": "Hypno" },
+    { "trait_type": "Legs", "value": "Paws" },
+    { "trait_type": "Wings", "value": "Lord gray" },
+    { "trait_type": "Horns", "value": "Feather" },
+    { "trait_type": "Hue", "value": "-113" }
+  ]
+}

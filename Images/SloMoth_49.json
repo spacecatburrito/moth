@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/49",
+  "image": "ipfs://bafkreifq6smv7i5mj46sgo4iv72ljklrmjhac6a7q3yi6krz3fm2amw2r4",
+  "name": "Slo Moth 49",
+  "attributes": [
+    { "trait_type": "Background", "value": "Granny carpet" },
+    { "trait_type": "Table", "value": "Sweet tooth" },
+    { "trait_type": "Body", "value": "Fluffy" },
+    { "trait_type": "Head", "value": "Insect" },
+    { "trait_type": "Legs", "value": "Hoffed" },
+    { "trait_type": "Wings", "value": "Plaids lover" },
+    { "trait_type": "Horns", "value": "Fluffy" },
+    { "trait_type": "Effect", "value": "Dithering" }
+  ]
+}

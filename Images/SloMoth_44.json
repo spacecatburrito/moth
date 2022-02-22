@@ -1,0 +1,17 @@
+{
+  "description": "Friendly Moth",
+  "external_url": "https://slomoth.io/44",
+  "image": "ipfs://bafybeibwyivksd5hy4truhfdhvbpc3bjog33ucnscxbpcihfzc43fpi7au",
+  "name": "Slo Moth 44",
+  "attributes": [
+    { "trait_type": "Background", "value": "Rustic" },
+    { "trait_type": "Table", "value": "Divination" },
+    { "trait_type": "Body", "value": "Shaggy" },
+    { "trait_type": "Head", "value": "Duck lips" },
+    { "trait_type": "Legs", "value": "Zen" },
+    { "trait_type": "Wings", "value": "Infection" },
+    { "trait_type": "Horns", "value": "Acacia" },
+    { "trait_type": "Effect", "value": "Stretch noize" },
+    { "trait_type": "Hue", "value": "154" }
+  ]
+}
